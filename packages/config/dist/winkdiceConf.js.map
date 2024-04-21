@@ -1,0 +1,1 @@
+{"version":3,"file":"winkdiceConf.js","sourceRoot":"","sources":["../src/winkdiceConf.ts"],"names":[],"mappings":";;;;;;;;;;;;IAAa,QAAA,cAAc,GAAG;QAC1B,QAAQ,EAAE,SAAS;QACnB,KAAK,EAAE,kCAAkC;QACzC,WAAW,EAAE,CAAC,eAAe,CAAC;QAC9B,MAAM,EAAE,GAAG;QACX,2CAA2C;QAC3C,gBAAgB,EAAE,qBAAqB;QACvC,iBAAiB,EAAE,uBAAuB;QAC1C,sBAAsB,EAAE,4CAA4C;KACvE,CAAA"}
